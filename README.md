@@ -11,7 +11,7 @@
 
 ### 📫 How to reach me:
 - :octocat: [github@moyueheng](https://github.com/moyueheng)
-- :email: [gmail@moyueheng](mailto:moyueheng@126.com)
+- :email: [email@moyueheng](mailto:moyueheng@126.com)
 - :tv: [bilibili@moyueheng](https://space.bilibili.com/343917159)
 - :bird: [yuque@moyueheng](https://www.yuque.com/moyueheng)
 

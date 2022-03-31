@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">I'm moyueheng</h1>
-<h3 align="center">A passionate java developer from China</h3>
+<h3 align="center">A passionate AI developer from China</h3>
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@moyueheng?theme=rule34"></a><br>
@@ -16,15 +16,6 @@
 - :bird: [yuque@moyueheng](https://www.yuque.com/moyueheng)
 
 
-| :pencil2: | :book:  |
-| --- | --- |
-| [Blogs](http://coderxiaomo.top) | [Books](https://www.yuque.com/moyueheng/xuexi) |
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🍭 Write Articles on [Yueque](https://www.yuque.com/moyueheng/xuexi) with [github](https://github.com/moyueheng/)
-2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
-<!--END_SECTION:activity-->
 
 <!--
 **moyueheng/moyueheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
